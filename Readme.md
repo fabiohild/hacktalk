@@ -1,6 +1,6 @@
 ### Solidity Hacktalk
 
-import into remix.ethereum.org, contracts will be available on the browser under "github":
+import into [remix.ethereum.org](https://remix.ethereum.org), contracts will be available on the browser under "github":
 
 import "http://github.com/fabiohild/hacktalk/1. KoET.sol";
 
